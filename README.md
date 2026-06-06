@@ -9,7 +9,7 @@ This project solves that problem by introducing **controlled deployments, approv
 
 ---
 
-# 🎯 Objective
+## 🎯 Objective
 
 Design and implement a **secure CI/CD pipeline** with:
 
@@ -21,7 +21,7 @@ Design and implement a **secure CI/CD pipeline** with:
 
 ---
 
-# 🧰 Technologies Used
+## 🧰 Technologies Used
 
 | Technology | Purpose |
 |------------|--------|
@@ -34,7 +34,7 @@ Design and implement a **secure CI/CD pipeline** with:
 
 ---
 
-# 🏗 Architecture Diagram
+## 🏗 Architecture Diagram
 
 ![](./images/architecturee%20digram.png)
 
@@ -45,7 +45,7 @@ Build → Unit Test → Deploy Dev → Deploy Staging → Approval → Productio
 
 ---
 
-# ⚙️ CI/CD Pipeline Stages
+## ⚙️ CI/CD Pipeline Stages
 
 The Jenkins pipeline consists of the following stages:
 
@@ -79,7 +79,7 @@ After approval, the application is deployed to the **Production Server**.
 
 ---
 
-# 🔐 Role-Based Access Control (RBAC)
+## 🔐 Role-Based Access Control (RBAC)
 
 Jenkins roles are configured to control deployment permissions.
 
@@ -96,7 +96,7 @@ Jenkins roles are configured to control deployment permissions.
 
 ---
 
-# 🌍 Environment Setup
+## 🌍 Environment Setup
 
 Three separate **AWS EC2 instances** are used.
 
@@ -116,7 +116,7 @@ PROD_SERVER = 13.201.192.68
 
 ---
 
-# 📸 Project Screenshots
+## 📸 Project Screenshots
 
 ## Jenkins Pipeline Execution
 
