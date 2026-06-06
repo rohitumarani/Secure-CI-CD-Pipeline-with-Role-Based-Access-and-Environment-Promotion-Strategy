@@ -151,7 +151,7 @@ PROD_SERVER = 13.201.192.68
 
 ![](./images/github.png)
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```
 Secure-CI-CD-Pipeline
 │
@@ -171,7 +171,7 @@ Secure-CI-CD-Pipeline
 
 ---
 
-# 🚀 Deployment Workflow
+## 🚀 Deployment Workflow
 ```
 
 Developer Push Code → GitHub
@@ -207,7 +207,7 @@ Deploy to Production
 
 ---
 
-# 🔒 Security Improvements
+## 🔒 Security Improvements
 
 ✔ Role-Based Access Control in Jenkins  
 ✔ Manual approval before production deployment  
@@ -217,7 +217,7 @@ Deploy to Production
 
 ---
 
-# 📈 Future Improvements
+## 📈 Future Improvements
 
 - Add **SonarQube for code quality scanning**
 - Add **Docker containerization**
@@ -226,7 +226,7 @@ Deploy to Production
 
 ---
 
-# 👨‍💻 Author
+##👨‍💻 Author
 
 **Rohit Umarani**
 
