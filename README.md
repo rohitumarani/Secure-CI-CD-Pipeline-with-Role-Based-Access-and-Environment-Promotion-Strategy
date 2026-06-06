@@ -149,7 +149,7 @@ PROD_SERVER = 13.201.192.68
 ---
 ## Webhook in Gihub
 
-![](./images/main.tf.png)
+![](./images/github.png)
 
 # 📂 Project Structure
 ```
