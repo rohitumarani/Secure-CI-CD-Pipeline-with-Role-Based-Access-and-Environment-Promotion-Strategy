@@ -226,7 +226,7 @@ Deploy to Production
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 **Rohit Umarani**
 
